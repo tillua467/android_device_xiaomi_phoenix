@@ -11,3 +11,7 @@ COMMON_LUNCH_CHOICES := \
     lineage_phoenix-user \
     lineage_phoenix-userdebug \
     lineage_phoenix-eng
+## Device
+
+PRODUCT_NAME := phoenix
+PRODUCT_DEVICE := phoenix
